@@ -87,19 +87,3 @@
 
 - SIH-2024: Led the development of a chatbot using RAG technology at Smart India Hackathon 2024, focusing on improving response accuracy.
 - Hackathon: Collaborated in 2 Major League Hacking Local Hack Days, developing solutions for complex challenges.
-
-<details>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=1av22&show_icons=true&theme=algolia&hide_border=true&hide=issues" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1av22&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1av22&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
-</p>
-
-</details>
